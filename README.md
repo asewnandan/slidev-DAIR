@@ -2,9 +2,10 @@
 
 To start the slide show:
 
+- `npm i -g pnpm` (Only once, to install pnpm, Nodejs required)
 - `pnpm install`
 - `pnpm dev`
-- visit <http://localhost:3030>
+- visit [http://localhost:3030](http://localhost:3030)
 
 Edit the [slides.md](./slides.md) to see the changes.
 
