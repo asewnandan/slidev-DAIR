@@ -1,40 +1,19 @@
 ---
-layout: center
-class: text-center
+layout: statement
 ---
 
-<div class="text-6xl mb-12">
-🤔
-</div>
+# Maar...
 
-<div class="text-5xl font-bold mb-8">
-Het probleem
-</div>
+## Van aanvraag tot bruikbare data
 
-<v-click>
-
-<div class="text-3xl mb-4">
-Van aanvraag tot bruikbare data
-</div>
-
-<div class="text-6xl font-bold text-red-500">
-Weken ⏱️
-</div>
-
-</v-click>
-
-<v-click>
-
-<div class="text-4xl mt-12 text-green-500">
-...tot nu ⚡
-</div>
-
-</v-click>
+# Weken tot maanden ⏱️
 
 <!--
-😫 PIJNPUNTEN (1-2 min)
-1. Aanvraag: 8 weken+ wachten
-2. SPSS/SAS bestanden - niet toegankelijk
-3. Iteratief proces - nieuwe aanvraag = weer weken
-💡 "Dit probleem hebben we aangepakt"
+De pijn:
+- 8 weken wettelijke beslistermijn DUO
+- SPSS/SAS bestanden (niet toegankelijk)
+- Handmatig datamanagement
+- Iteratief proces = weer weken wachten
+
+Impact: beleid kan niet snel genoeg worden bijgesteld
 -->

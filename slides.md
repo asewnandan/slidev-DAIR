@@ -20,3 +20,15 @@ src: ./pages/introductie/introduction.md
 ---
 src: ./pages/problem/problem.md
 ---
+
+---
+src: ./pages/solution/solution.md
+---
+
+---
+src: ./pages/demo/demo.md
+---
+
+---
+src: ./pages/future/future.md
+---
