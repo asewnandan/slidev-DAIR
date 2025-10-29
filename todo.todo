@@ -4,13 +4,26 @@ DONE:
 [x] Choose a theme (through github or original)
 
 TODO:
-[ ] Choose plugins? (Live Seminar & Polling? -> Brainstorm with Tomer)
+[ ] Discuss repo structure -> Sections and pages [INTRO] [I_Presentatie] [I_Probleem] 
 [ ] Create slides structure
 [ ] Create slides content
-[ ] Review slides with Tomer
+
 
 
 ---
 [ ] Finalize slides
 [ ] Practice presentation
 [ ] Deliver presentation
+[ ] Review slides with Tomer
+
+POSTPONED: 
+[x] Choose plugins? (Live Seminar & Polling? -> Brainstorm with Tomer)
+    - Progress (component-progress) -> ERROR
+    - slidev-component-poll -> NA + Zoek Remote Sync vs Alternative
+    - Python Runner? -> NA
+    - Window Mock-up -> Visueel
+    - Zooming -> Visueel
+    - Recording 
+    - Magic Move -> Visueel
+    - Live Reactions -> For the fun
+    - QR (scannen voor Live Meekijken & Polls) -> For the fun
